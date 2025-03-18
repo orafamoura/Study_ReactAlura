@@ -1,5 +1,5 @@
 import React from 'react';
-import ButtonNormal from '../buttons';
+import ButtonNormal from '../Buttons';
 
 class Formulario extends React.Component {
   render(): React.ReactNode {
